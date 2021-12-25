@@ -1,0 +1,17 @@
+body {
+  background-image: url('../img/Desktop/1.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  position: relative;
+  min-height: 100vh;
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    background-image: url('../img/Mobile/1.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom;
+  }
+}
