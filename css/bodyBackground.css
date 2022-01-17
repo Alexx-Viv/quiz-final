@@ -1,8 +1,8 @@
 body {
   background-image: url('../img/Desktop/Progetto\ senza\ titolo-8.jpg');
-  background-size: cover;
+  background-size: 100vw;
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: bottom;
   position: relative;
   min-height: 100vh;
 }
@@ -10,7 +10,7 @@ body {
 @media screen and (max-width: 600px) {
   body {
     background-image: url('../img/Mobile/Progetto\ senza\ titolo-7.jpg');
-    background-size: contain;
+    background-size: 100vw;
     background-repeat: no-repeat;
     background-position: bottom;
   }

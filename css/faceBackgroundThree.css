@@ -1,6 +1,8 @@
 body {
   background-image: url('../img/Desktop/3.jpg');
-  background-size: cover;
+  background-size: 100vw;
+  background-repeat: no-repeat;
+  background-position: bottom;
   position: relative;
   min-height: 100vh;
 }
@@ -8,7 +10,7 @@ body {
 @media screen and (max-width: 600px) {
   body {
     background-image: url('../img/Mobile/3.jpg');
-    background-size: contain;
+    background-size: 100vw;
     background-repeat: no-repeat;
     background-position: bottom;
   }
