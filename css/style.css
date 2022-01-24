@@ -44,7 +44,7 @@ a {
 }
 
 .img{
-  width: 40%;
+  width: 100%;
 }
 
 .box{
@@ -92,7 +92,7 @@ a:hover {
     font-weight: 700;
   }
   .img{
-    width: 100%;
+    width: 40%;
   }
   
 }
