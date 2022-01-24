@@ -48,9 +48,9 @@ a {
 }
 
 .box{
-  border: 4px solid #8b70bf;
+  background-color:  #F3E2FF;
   border-radius: 20px;
-  padding: 50px;
+  padding: 10px 50px 50px 50px;
   margin: 20px;
 }
 
